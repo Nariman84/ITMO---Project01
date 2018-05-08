@@ -1,7 +1,6 @@
 * {
     box-sizing: border-box;
 }
-<<<<<<< HEAD
 a {
     text-transform: uppercase;
     margin: auto 10px;
@@ -14,23 +13,11 @@ p {
 }
 body {
     font-family: "Open Sans", Arial, sans-serif;
-=======
-p {
-	font-family: serif;
-    font-size: 1rem
-}
-body {
-    font-family: Arial;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
     display: block;
     margin: 1px;
     font-size: 10px;
 }
-<<<<<<< HEAD
 div, section {
-=======
-div, section, ul, li {
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
     font-size: 12px;
 }
 .box-1 {
@@ -46,40 +33,18 @@ div, section, ul, li {
     height: 300px;
 }
 .logo {
-<<<<<<< HEAD
     float: left;
 }
 .menu {
     list-style: none;
     float: right;
-=======
-	font-size: 22px;
-    float: left;
-    width: 50%;
-    text-align: left;
-}
-.menu {
-    list-style: none;
-    float: left;
-    width: 50%;
-    position: inherit;
-    right: 0;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 li {
     float: left;
     display: block;
-<<<<<<< HEAD
     height: 30px;
     text-align: center;
 }
-=======
-    width: 90px;
-    height: 30px;
-    text-align: center;
-}
-
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 .button-1 {
     border: 0px;
     padding: 10px;
@@ -87,17 +52,8 @@ li {
     background: #84cc86;
     color: white;
     margin-top: 10px;
-<<<<<<< HEAD
     text-transform: uppercase;
 }
-=======
-}
-.container-1 {
-    max-width: 1040px;
-    margin: auto;
-}
-
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 .container-2 {
     max-width: 100%;
     text-align: center;
@@ -106,7 +62,6 @@ header {
     height: 150px;
 }
 h4 {
-<<<<<<< HEAD
     margin: auto;
     text-transform: uppercase;
 }
@@ -114,16 +69,6 @@ h1 {
     font-size: 2em;
     margin-top: 0px;
     text-transform: uppercase;
-=======
-    font-size: 1em;
-    font-family: sans-serif;
-    margin-bottom: 5px;
-}
-h1 {
-    font-size: 2rem;
-    font-family: sans-serif;
-    margin-top: 0px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 .service__item {
     background: white;
@@ -133,7 +78,6 @@ h1 {
     box-shadow: 0 0 20px -5px;
 }
 .what-we-do {
-<<<<<<< HEAD
     background: white;
     padding: 50px 0;
 }
@@ -147,21 +91,6 @@ h1 {
     text-align: center;
     color: white;
     text-transform: uppercase;
-=======
-    background: #efefef;
-    height: 100%;
-}
-.caption-1 {
-    margin: auto;
-    padding-top: 20px;
-    text-align: center;
-}
-.caption-2 {
-    margin: auto;
-    padding-top: 20px;
-    text-align: center;
-    color: white;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 hr {
     max-width: 50px;
@@ -173,7 +102,6 @@ hr.white {
     border-width: 1.5px;
     border-color: white;
 }
-<<<<<<< HEAD
 .row.service {
     padding-top: 50px;
 }
@@ -188,62 +116,31 @@ hr.white {
     background-repeat: no-repeat;
     background-position: center;
     padding: 50px 0;
-=======
-.container-3 {
-    max-width: 1040px;
-    margin: auto;
-}
-.info {
-    margin-left: -15px;
-    margin-right: -15px;
-}
-.eat {
-    background: url(../images/what-we-do-bg.png);
-    color: #fff;
-    height: 450px;
-    padding-top: 30px;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
     clear: both;
 }
 .button-2 {
     display: block;
     float: left;
     border: 0px;
-<<<<<<< HEAD
     padding: 10px;
-=======
-    padding: 5px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
     border-radius: 15px;
     background: #fff;
     color: black;
     margin-top: 10px;
     margin-right: 10px;
     margin-left: -15px;
-<<<<<<< HEAD
     font-size: 1.1em;
     text-transform: uppercase;
-=======
-    font-size: 10px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 .button-3 {
     display: block;
     float: left;    
     border: 0px;
-<<<<<<< HEAD
     padding: 10px;
-=======
-    padding: 5px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
     border-radius: 15px;
     background: #84cc86;
     color: white;
     margin-top: 10px;
-<<<<<<< HEAD
     margin-right: 10px;
     font-size: 1.1em;
     text-transform: uppercase;
@@ -261,24 +158,12 @@ hr.white {
 }
 .portfolio {
     padding-top: 20px;
-=======
-}
-.picture-1 {
-    text-align: right;
-    margin-right: -15px;
-    margin-top: 15px;
-}
-.our-portfolio {
-    background: #efefef;
-    height: 100%;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 .portfolio__item {
     padding: 10px 0;
 }
 .Our-blog {
     background: url(../images/blog-bg.png);
-<<<<<<< HEAD
     padding: 50px 0;
 }
 .blog-posts {
@@ -361,54 +246,6 @@ img {
     color: white;
     font-size: 1.1em;
     font-family: Arial, sans-serif;
-=======
-    height: 100%;
-}
-.blog-posts {
-    margin: 50px -15px;
-}
-.post2 {
-    margin-bottom: 24px;
-}
-section.website-traffic {
-    margin: 40px auto;
-}
-.traffic {
-    background: #efefef;
-    text-align: center;
-    margin: 15px 0;
-    padding: 15px;
-}
-.contacts {
-    background: url(../images/contact-bg.png);
-    height: 500px;
-}
-.container-4 {
-    max-width: 1040px;
-    margin: auto;
-}
-.plan {
-    max-width: 100%;
-    margin: 0 -15px;
-}
-#name {
-    width: 100%;
-}
-#e-mail {
-    width: 100%;
-}
-#message {
-    width: 100%;
-    height: 180px;
-    background: #80808040;
-    border: 0;
-    padding: 10px;
-    margin-top: 15px;
-    margin-bottom: 10px;
-    color: white;
-    font-family: serif;
-    font-size: 16px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
 input {
     background: #80808040;
@@ -417,12 +254,6 @@ input {
     padding: 10px;
     color: white;
 }
-<<<<<<< HEAD
-=======
-.title {
-    padding: 40px 0;
-}
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 .send {
     display: block;
     float: left;
@@ -431,7 +262,6 @@ input {
     border-radius: 15px;
     background: #84cc86;
     color: white;
-<<<<<<< HEAD
     text-transform: uppercase;
 }
 .box-message {
@@ -439,10 +269,4 @@ input {
 }
 .title {
     margin-bottom: 50px;
-=======
-    margin-left: 15px;
-}
-.box-message {
-    margin-right: -30px;
->>>>>>> 36f6131a9a9e34165219ded51297add29172f637
 }
